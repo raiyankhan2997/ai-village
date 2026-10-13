@@ -16,6 +16,7 @@ could take that workload — while keeping a human in control of every decision.
 | Manager (daily skill) | Reads my feedback, checks every agent, flags problems, assigns tasks, writes a briefing |
 | Strategist (weekly skill) | Reviews everything and recommends next week's focus |
 | Researcher | Researches online income ideas, each with a UK legal check and risk rating |
+| Tutor assistant | Prepares lesson plans, original questions with mark schemes and anonymous progress notes for my tutoring (see `examples/sample-lesson-plan.md`) |
 | University assistant | Revision help and internship tracking; forbidden from writing assessed work for me to submit |
 | Content creator | Drafts revision material for me to check and edit before anything is sold |
 
