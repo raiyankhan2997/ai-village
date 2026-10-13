@@ -18,7 +18,7 @@ could take that workload — while keeping a human in control of every decision.
 | Researcher | Researches online income ideas, each with a UK legal check and risk rating |
 | Tutor assistant | Prepares lesson plans, original questions with mark schemes and anonymous progress notes for my tutoring (see `examples/sample-lesson-plan.md`) |
 | University assistant | Revision help and internship tracking; forbidden from writing assessed work for me to submit |
-| Content creator | Drafts revision material for me to check and edit before anything is sold |
+| Content creator | Drafts revision material for me to check and edit before anything is used personally and listed online |
 
 * **Shared task board** (`board.py`, `core.py`): every agent starts, finishes, fails and
   logs tasks through one small Python CLI, so state lives in plain JSON files and is auditable.
